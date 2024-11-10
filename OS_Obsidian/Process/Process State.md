@@ -21,6 +21,3 @@ graph TD
 
 ```
 
-### Key Features
----
-- Managed by [[Schedulers]]

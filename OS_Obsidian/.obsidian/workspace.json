@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3b64eabe1ff43b",
+        "id": "3dbfb6abd6c4c178",
         "type": "tabs",
         "children": [
           {
-            "id": "3b83da05f9046ae0",
+            "id": "e4c9267a459c8480",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,47 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "fc8955865b4be22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Completely Fair Scheduler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Completely Fair Scheduler"
+            }
+          },
+          {
+            "id": "4ffd9b59b172bb5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a50e5d04c0f17c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "virtual runtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "virtual runtime"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,35 +193,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03a14d5174efab9f",
+  "active": "4ffd9b59b172bb5b",
   "lastOpenFiles": [
+    "virtual runtime.md",
+    "Completely Fair Scheduler.md",
+    "Unix/Linux.md",
+    "Unix/Unix.md",
+    "Process/Scheduling Algorithms.md",
+    "Process Control Blocks.md",
+    "Process/Kernel.md",
+    "Kernel/Kernel Space.md",
+    "Kernel/Process Management.md",
+    "Process/Process.md",
+    "Process/Context Switching.md",
+    "Involuntary.md",
+    "Process/Voluntary.md",
     "Shells",
     "Unix",
     "Process/Scheduling.md",
-    "Process/Context Switching.md",
     "Process/Real-Time Deadline.md",
-    "Process/Voluntary.md",
     "Process/Time Slices.md",
     "Process/Scheduling Concepts.md",
-    "Process/Scheduling Algorithms.md",
     "Untitled.md",
     "Unix/nice.md",
     "Unix/Unix-like Processes.md",
     "Unix/Nice Values.md",
     "Unix/renice.md",
-    "Process/Process.md",
     "C/OS.md",
-    "Unix/Unix.md",
-    "Unix/Linux.md",
     "Unix/bash.md",
     "Unix/Unix-like Shells.md",
     "Unix/chaining.md",
-    "Unix/piping.md",
-    "Process/Kernel.md",
-    "Kernel/Kernel Space.md",
-    "Kernel/Process Management.md",
-    "Kernel/Schedulers.md",
-    "Shells/Shell OR CLI.md",
     "Kernel",
     "blocked",
     "Process",

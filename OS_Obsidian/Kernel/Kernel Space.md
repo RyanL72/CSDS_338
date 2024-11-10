@@ -6,3 +6,6 @@ A protected area of memory where the kernel operates. It is isolated from `user 
 ### Key Features
 ---
 - [[Process Management]]
+- [[Memory Management]]
+- [[File System Management]]
+- And More!
