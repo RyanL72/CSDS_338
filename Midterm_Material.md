@@ -1,3 +1,5 @@
 # Midterm Study Material
-- `3 Easy Pieces` 
+-  `SI Study Sheet`
+    - avoid list items get broad picture copy ask later.
+-  `3 Easy Pieces` 
 -  `Lecture Slides`

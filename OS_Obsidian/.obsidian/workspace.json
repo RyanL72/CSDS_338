@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd69ebfdd14193d",
+        "id": "6c3b64eabe1ff43b",
         "type": "tabs",
         "children": [
           {
-            "id": "b54138f6beb596ca",
+            "id": "3b83da05f9046ae0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -154,13 +154,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b54138f6beb596ca",
+  "active": "03a14d5174efab9f",
   "lastOpenFiles": [
-    "Midterm_Material.md",
-    "Templates/3. Mermaid.md",
-    "Untitled",
-    "Templates/2. Key Features.md",
-    "Templates/1. Description.md",
+    "Shells",
+    "Unix",
+    "Process/Scheduling.md",
+    "Process/Context Switching.md",
+    "Process/Real-Time Deadline.md",
+    "Process/Voluntary.md",
+    "Process/Time Slices.md",
+    "Process/Scheduling Concepts.md",
+    "Process/Scheduling Algorithms.md",
+    "Untitled.md",
+    "Unix/nice.md",
+    "Unix/Unix-like Processes.md",
+    "Unix/Nice Values.md",
+    "Unix/renice.md",
+    "Process/Process.md",
+    "C/OS.md",
+    "Unix/Unix.md",
+    "Unix/Linux.md",
+    "Unix/bash.md",
+    "Unix/Unix-like Shells.md",
+    "Unix/chaining.md",
+    "Unix/piping.md",
+    "Process/Kernel.md",
+    "Kernel/Kernel Space.md",
+    "Kernel/Process Management.md",
+    "Kernel/Schedulers.md",
+    "Shells/Shell OR CLI.md",
+    "Kernel",
+    "blocked",
+    "Process",
+    "C",
     "Templates"
   ]
 }
