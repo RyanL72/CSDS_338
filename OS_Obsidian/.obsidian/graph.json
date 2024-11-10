@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 25343
       }
+    },
+    {
+      "query": "file: Memory ",
+      "color": {
+        "a": 1,
+        "rgb": 5832959
+      }
     }
   ],
   "collapse-display": true,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.614583333333333,
-  "repelStrength": 14.8958333333333,
-  "linkStrength": 0.895833333333333,
-  "linkDistance": 113,
-  "scale": 0.5087618855792859,
+  "centerStrength": 0.607272727272727,
+  "repelStrength": 11.1970315398887,
+  "linkStrength": 0.555102040816327,
+  "linkDistance": 30,
+  "scale": 1.0000000000001288,
   "close": false
 }

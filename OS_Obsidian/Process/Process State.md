@@ -21,3 +21,4 @@ graph TD
 
 ```
 
+`Waiting` is also known as `Interruptible sleep` or `Uninterruptible Sleep`.

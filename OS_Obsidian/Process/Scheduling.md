@@ -7,4 +7,4 @@ The process of choosing which process gets CPU time.
 ---
 - Utilizes [[Scheduling Concepts]]
 - Utilizes [[Scheduling Algorithms]]
-- Handles [[Context Switching]]
+- Handles `Context Switching`
